@@ -39,3 +39,4 @@ Hi there ✋!
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhukarkakade&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarkakade&layout=compact&theme=cobalt&hide_border=true" />
+![Snake animation](https://github.com/madhukarkakade/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
