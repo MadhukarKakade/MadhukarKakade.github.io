@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.923d73b5.js",
+    "main.js": "/static/js/main.90e027ff.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/antropology.png": "/static/media/antropology.0bf939c34149c8be2a09.png",
+    "static/media/nemow.png": "/static/media/nemow.3815e2dedfa658ff14b6.png",
     "static/media/maxfashion.png": "/static/media/maxfashion.169b40c25c4d9e62bda5.png",
     "static/media/overstock.png": "/static/media/overstock.6fb659827be720fc1b4c.png",
     "static/media/flipkart.png": "/static/media/flipkart.3832dadb13d7c5fe2daf.png",
-    "static/media/fw19_1056-Madhukar-Kakade-Resume.pdf": "/static/media/fw19_1056-Madhukar-Kakade-Resume.8f61728db464fe4d96a0.pdf",
+    "static/media/trendsy.png": "/static/media/trendsy.4022618492dc4683f6e4.png",
+    "static/media/fw19_1056-Madhukar-Kakade-Resume.pdf": "/static/media/fw19_1056-Madhukar-Kakade-Resume.54c3653b283aa2f61db8.pdf",
     "static/media/logoMK.jpg": "/static/media/logoMK.bb9977de253c8b6719a7.jpg",
     "static/media/deno.svg": "/static/media/deno.96d4a63dc8a39aad6c76b5fb9e7afae8.svg",
     "static/media/postman.svg": "/static/media/postman.2073bd39738c1ccb1db2ff9deb88e99f.svg",
@@ -87,11 +89,11 @@
     "static/media/npm.svg": "/static/media/npm.0c82b4efafb5e5cd7cd99da29bbfae32.svg",
     "static/media/bulma.svg": "/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.923d73b5.js.map": "/static/js/main.923d73b5.js.map",
+    "main.90e027ff.js.map": "/static/js/main.90e027ff.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.923d73b5.js"
+    "static/js/main.90e027ff.js"
   ]
 }
